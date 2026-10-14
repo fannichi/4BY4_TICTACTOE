@@ -10,7 +10,6 @@ Create every possible winning line once:
     - 4 corners
     - every 2x2 square
 
-
 Step Taken:
 
 To check for a winner:
